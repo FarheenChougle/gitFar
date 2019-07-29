@@ -7,11 +7,11 @@ class Calc
       System.out.println(multiply(3,2));
       System.out.println(div());  
     }
-    int add(int x, int y)
+    int addition(int x, int y)
     {
         return x + y;
     }
-    int sub(int x, int y)
+    int subtract(int x, int y)
     {
         return x - y;
     }
