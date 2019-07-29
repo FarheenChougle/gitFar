@@ -23,4 +23,5 @@ class Calc
     {
         return x/y;
     }
+    System.out.println("hi");
 }
